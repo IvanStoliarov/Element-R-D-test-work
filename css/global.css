@@ -1,0 +1,83 @@
+:root {
+  --ugly-purple: #a33ba3;
+  --warm-grey: #7a7a7a;
+  --black: #292622;
+  --pale-grey: #f8f7fa;
+  --white: #ffffff;
+  --greyish: #a3a3a3;
+  --white-two: #e9e9e9;
+  --rich-purple: #730073;
+}
+/* Text styles */
+.H1-sc {
+  font-family: PingFangSC;
+  font-size: 32px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: center;
+  color: var(--black);
+}
+.H2-sc {
+  font-family: PingFangSC;
+  font-size: 24px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  color: var(--black);
+}
+.H3-sc {
+  font-family: PingFangSC;
+  font-size: 20px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.4;
+  letter-spacing: normal;
+  color: var(--black);
+}
+.btn-sc {
+  font-family: PingFangSC;
+  font-size: 18px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.56;
+  letter-spacing: normal;
+  text-align: center;
+  color: var(--white);
+}
+.body-sc {
+  font-family: PingFangSC;
+  font-size: 18px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.56;
+  letter-spacing: normal;
+  color: var(--warm-grey);
+}
+.CAPTIONS-sc {
+  font-family: PingFangSC;
+  font-size: 15px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  color: var(--warm-grey);
+}
+.small-sc {
+  font-family: PingFangSC;
+  font-size: 15px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  color: var(--warm-grey);
+}
